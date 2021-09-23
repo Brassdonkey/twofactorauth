@@ -1,0 +1,16 @@
+{
+  "Tangerine": {
+    "domain": "tangerine.ca",
+    "url": "https://www.tangerine.ca/",
+    "contact": {
+      "facebook": "TangerineBank",
+      "twitter": "TangerineBank"
+    },
+    "regions": [
+      "ca"
+    ],
+    "keywords": [
+      "banking"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "BMO Bank of Montreal": {
+    "domain": "bmo.com",
+    "url": "https://www.bmo.com/",
+    "img": "bmo.svg",
+    "contact": {
+      "twitter": "BMO"
+    },
+    "regions": [
+      "ca"
+    ],
+    "keywords": [
+      "banking"
+    ]
+  }
+}
